@@ -1,0 +1,51 @@
+body {
+    font-family: 'Comic Neue', cursive;
+    background-color: #7cbdf1;
+}
+
+section {
+    text-align: center;
+}
+
+.cell {
+    font-family: "Permanent Marker", cursive;
+    width: 100px;
+    height: 100px;
+    box-shadow: 2px 2px 2px 2px #f3e75e;
+    border: 2px solid #ecd7ba;
+    cursor: pointer;
+    line-height: 100px;
+    font-size: 60px;
+}
+
+.game--title {
+    font-size: 100px;
+    color: black;
+    margin: 10px auto;
+}
+
+.game--container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 306px;
+    margin: 10px auto;
+    background-color: #11213a;
+    color: #04c0b2;
+}
+
+.game--status {
+    font-size: 50px;
+    color: #c8f14b;
+    margin: 20px auto;
+}
+
+.game--restart {
+    font-family: 'Comic Neue', cursive;
+    background-color: rgb(158, 245, 158);
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    color: black;
+    box-shadow: 2px 2px 2px 2px #a3f516;
+    border: 2px solid #1f9c0ce0;
+}
