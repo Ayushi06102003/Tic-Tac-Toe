@@ -29,3 +29,4 @@ This app can be deployed in two ways:
 
 1. Clone the repository or download the files to your computer
 2. Open the index.html file in a web browser
+3. Website is hosted at: https://ayushi06102003.github.io/Tic-Tac-Toe/
